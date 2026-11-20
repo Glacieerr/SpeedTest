@@ -49,6 +49,8 @@ TypeScript, React, Ionic and Capacitor (Geolocation), Vite; Vitest and Cypress f
 [MIT](LICENSE) © 2026 Canyuan Ye
 -->
 
+The code was written by our team, with my part described above. In November 2026 Claude helped write this README and its header images, which is why Claude appears under Contributors.
+
 ---
 
-中文：团队课程项目，纽约州立大学奥尔巴尼分校计算机科学。DriveSafe 测速应用：根据手机的 GPS 定位显示实时速度（km/h）。我负责测速算法（`drive-safe/src/pages/Home.tsx`）：丢弃精度差于 10 米的定位，用卡尔曼滤波平滑经纬度和速度，设备不提供速度时用 Haversine 公式按距离和时间计算。其余部分是团队完成的。
+中文：团队课程项目，纽约州立大学奥尔巴尼分校计算机科学。DriveSafe 测速应用：根据手机的 GPS 定位显示实时速度（km/h）。我负责测速算法（`drive-safe/src/pages/Home.tsx`）：丢弃精度差于 10 米的定位，用卡尔曼滤波平滑经纬度和速度，设备不提供速度时用 Haversine 公式按距离和时间计算。其余部分是团队完成的。代码由我们团队编写，分工见上文；2026 年 11 月，Claude 帮忙写了这份 README 和头图，所以贡献者里有 Claude。
